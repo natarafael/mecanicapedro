@@ -1,0 +1,24 @@
+.mecanicos-container {
+  max-width: 300px;
+  margin: 40px;
+  border: 4px solid silver;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.mec{
+  display: flex;
+  margin-left: 35%;
+  margin-top: 30px;
+}
+
+.img-mec {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nome-mec {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 26px;
+}
